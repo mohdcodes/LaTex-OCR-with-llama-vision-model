@@ -3,7 +3,7 @@
 Extract LaTeX code from images of mathematical equations using **Llama 3.2 Vision** — all running locally on your machine.
 
 ## Demo
-
+Test images are in the "test" folder
 Upload an image containing a math equation → get the raw LaTeX code + rendered equation instantly.
 
 ## Features
